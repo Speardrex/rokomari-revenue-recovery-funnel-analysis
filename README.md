@@ -1,6 +1,6 @@
 # rokomari-revenue-recovery-funnel-analysis
 
-# 📊 Rokomari E-Commerce Growth & Funnel Audit
+#  Rokomari E-Commerce Growth & Funnel Audit
 
 ## 🚀 Executive Summary
 This project is a proactive, data-driven Growth Audit of Rokomari, Bangladesh's leading e-commerce platform for books and electronics. The goal of this analysis was to identify UI friction points, model the resulting Revenue Opportunity Gap, and design an ICE-prioritized 60-day roadmap for revenue recovery.
